@@ -1,4 +1,4 @@
-# PROGRAMING EVENTS
+# PROGRAMMING WEB PAGE
 This is a project that show information related to programming and the events that the software developers usually do.
 ## TODO
 - 
